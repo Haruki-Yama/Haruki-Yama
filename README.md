@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haruki-Yama&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haruki-Yama&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Haruki-Yama&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haruki-Yama&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haruki-Yama&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haruki-Yama&theme=transparent)
